@@ -4,6 +4,7 @@ GhostCat是一款非官方同人桌宠，程序基于 chanke17 的 [KuroCat v1.4
 
 Windows x64 下载
 从 Assets 下载 `Ghost-Cat-Windows-x64.exe ` 可直接运行，也可以下载 `Ghost-Cat-Windows-x64.zip` 后解压运行。如果已经运行 KuroCat，请先从托盘退出。
+**[点击这里下载 Ghost 猫（Windows x64）](https://github.com/Alba0567/Ghost-cat-desktop/releases/latest)**
 
 如果打开后显示的是小黑猫，可以手动切换皮肤：
 

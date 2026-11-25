@@ -1,8 +1,6 @@
 # Ghost-cat-desktop
-GhostCat是一款非官方同人桌宠，程序基于 [chanke17 的 KuroCat v1.4.0](https://github.com/chanke17/KuroCat/releases/tag/v1.4.0) 制作。
+GhostCat是一款非官方同人桌宠，程序基于 chanke17 的 [KuroCat v1.4.0](https://github.com/chanke17/KuroCat/releases/tag/v1.4.0)。
 猫猫形象来自 [二哈拆迁队大队长@小红书]，经画师同意制作并免费分享，**请勿商用**。
-
-程序基于 chanke17 的 [KuroCat v1.4.0](https://github.com/chanke17/KuroCat/releases/tag/v1.4.0)。
 
 Windows x64 下载
 从 Assets 下载 `Ghost-Cat-Windows-x64.exe ` 可直接运行，也可以下载 `Ghost-Cat-Windows-x64.zip` 后解压运行。如果已经运行 KuroCat，请先从托盘退出。
